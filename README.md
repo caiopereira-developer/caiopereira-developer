@@ -23,7 +23,10 @@ Olá, meu nome é Caio Pereira, tenho 20 anos e sou natural de São Paulo. Atual
 ##
 
 <div>
-   <a href="www.linkedin.com/in/caio-pereira-do-nascimento-4837b125a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/caio-pereira-do-nascimento-4837b125a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
   
 </div>
           
