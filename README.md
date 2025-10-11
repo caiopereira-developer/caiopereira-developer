@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Focado em **Back-End** e **Ciência de Dados com Python**  
-📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, Power BI e Looker**
+📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, BI, Machine Leanrning**
 
 ---
 
@@ -11,16 +11,13 @@ Atualmente atuo no setor **financeiro**, onde desenvolvo soluções para otimiza
 - 🔹 Atualização e manutenção de banco de dados  
 - 🔹 Automação de tarefas repetitivas com **Python**  
 - 🔹 Responsável pelo projeto **OCR** do setor  
-- 🔹 Criação de relatórios e análises de dados  
+- 🔹 Criação de relatórios e análises de dados
+- 🔹 Envio automático de e-mails
+- 🔹 BI com Streamlit
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL  
-- **Análise de Dados:** Excel, Power BI, Looker  
-- **Outros:** Automação de Processos, OCR, Relatórios
 
----
 
 ## 📫 Conecte-se comigo
 <a href="https://www.linkedin.com/in/caio-pereira-do-nascimento-4837b125a" target="_blank">
