@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Caio Pereira  
 
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
+Cursando pós graduação em Data Science and Anaytics aplicado á finanças
 💻 **Ciência de Dados e IA com Python**  
 📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, Power BI, Machine Leanrning, AWS, Flask, FastAPI, Streamlit, Bibliotecas de visualização de dados**
 
