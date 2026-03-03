@@ -14,6 +14,7 @@ Atualmente atuo no setor **financeiro**, onde desenvolvo soluções para otimiza
 - 🔹 Criação de relatórios e análises de dados
 - 🔹 Envio automático de e-mails
 - 🔹 BI com Streamlit
+- 🔹 Relatórios e dashboards financeiros
 
 ---
 
