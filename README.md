@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Caio Pereira  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Focado em **Back-End** e **Ciência de Dados com Python**  
-📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, BI, Machine Leanrning**
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
+💻 **Ciência de Dados e IA com Python**  
+📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, Power BI, Machine Leanrning, AWS, Flask, FastAPI, Streamlit, Bibliotecas de visualização de dados**
 
 ---
 
