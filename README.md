@@ -3,8 +3,8 @@
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
 🎓  Cursando pós graduação em **Data Science and Anaytics aplicado á finanças**
 
-💻 **Ciência de Dados e IA com Python**  
-📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, Power BI, Machine Leanrning, AWS, Flask, FastAPI, Streamlit, Bibliotecas de visualização de dados**
+💻 **Ciência de Dados, Machine Leaning, Pipeline de dados**  
+📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, Power BI, Machine Leanrning, FastAPI, Streamlit, Bibliotecas de visualização de dados**
 
 ---
 
@@ -16,7 +16,7 @@ Atualmente atuo no setor **financeiro**, onde desenvolvo soluções para otimiza
 - 🔹 Criação de relatórios e análises de dados
 - 🔹 Envio automático de e-mails
 - 🔹 BI com Streamlit
-- 🔹 Relatórios e dashboards financeiros
+- 🔹 Relatórios e dashboards financeiros em PowerBI
 
 ---
 
