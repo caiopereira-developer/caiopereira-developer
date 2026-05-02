@@ -3,8 +3,8 @@
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
 🎓  Cursando pós graduação em **Data Science and Anaytics aplicado á finanças**
 
-💻 **Ciência de Dados, Machine Leaning, Pipeline de dados**  
-📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, Power BI, Machine Leanrning, FastAPI, Streamlit, Bibliotecas de visualização de dados**
+💻 **Ciência de Dados, Machine Leaning, Pipeline de dados, IA**  
+📊 Conhecimentos em **SQL, Python, Excel, Análise de Dados, Power BI, Machine Leanrning, FastAPI, Streamlit, Bibliotecas de visualização de dados, LangChain**
 
 ---
 
