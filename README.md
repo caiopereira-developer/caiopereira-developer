@@ -65,8 +65,35 @@ EDA, feature engineering e classificação com Scikit-learn, gerando insights ap
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎓 Formação
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNICID *(2024 – 2025)*
 
-Certificações: Databricks Fundamentals · AI Agent Fundamentals · AWS Data Lake · Pipeline de Dados com Python e POO · Machine Learning · Streamlit · SQL · MongoDB — *Databricks & Alura*
+---
+
+## 📜 Certificações & Cursos
+
+**Engenharia de Dados**
+- Databricks Fundamentals — *Databricks*
+- Academy Accreditation – AI Agent Fundamentals — *Databricks*
+- Pipeline de Dados: combinando Python e Orientação a Objetos — *Alura*
+- AWS Data Lake: pipeline para ingestão de dados — *Alura*
+- Engenharia de Dados: Cloud Computing para engenharia de dados — *Alura*
+- Python e APIs — *Alura*
+- SQLite Online — *Alura*
+- SQL: Modelagem de Banco de Dados Relacional — *Alura*
+- MongoDB (NoSQL) — *Alura*
+
+**Python & Desenvolvimento**
+- Python: Orientação a Objetos — *Alura*
+
+**Machine Learning & Estatística**
+- Classificação com Machine Learning — *Alura*
+- Estatística: Métodos e Práticas para Dados — *Alura*
+
+**Visualização & BI**
+- Streamlit: construindo um dashboard interativo — *Alura*
+- Data Visualization: Matplotlib, Seaborn e Plotly — *Alura*
+
+**Metodologias Ágeis**
+- Scrum: Agilidade em seu Projeto — *Alura*
