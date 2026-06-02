@@ -53,21 +53,6 @@ Tenho interesse em oportunidades nas áreas de Desenvolvimento Back-end, Engenha
 
 ---
 
-## 🚀 Projetos
-
-**[Pipeline ETL em Python](https://github.com/caiopereira-developer)**
-Pipeline com Python, Pandas e POO processando CSV, JSON e Excel — com regras de qualidade, deduplicação e consolidação para BI.
-
-**[Data Lake na AWS](https://github.com/caiopereira-developer)**
-Data Lake Bronze/Silver no Amazon S3, governança via IAM e Lake Formation, monitoramento com CloudWatch e automação com Boto3.
-
-**[Dashboard Interativo de Vendas](https://github.com/caiopereira-developer)**
-Dashboard self-service com Streamlit e Plotly, integrado a API para atualização automática e análise temporal.
-
-**[ML — Previsão de Adesão a Investimentos](https://github.com/caiopereira-developer)**
-EDA, feature engineering e classificação com Scikit-learn, gerando insights aplicados ao setor financeiro.
-
----
 
 ## 🎓 Formação
 
