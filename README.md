@@ -1,8 +1,8 @@
 <h1 align="center">Caio Nascimento</h1>
 
 <p align="center">
-  <b>Analista de Dados · Engenharia de Dados & Automação</b><br>
-  Python · SQL · ETL · Power BI · AWS
+  <b>Backend Developer and Data Analytics</b><br>
+  Java •  SQL • AWS • Python 
 </p>
 
 <p align="center">
@@ -16,7 +16,15 @@
 
 ---
 
-Analista de Dados com experiência em automação de processos financeiros e pipelines de dados em Python. Atuo na consolidação, validação e tratamento de grandes volumes de dados corporativos com foco em ETL, Power BI e integração de múltiplas fontes — entregando eficiência operacional e confiabilidade nas informações.
+Formado em Análise e Desenvolvimento de Sistemas, com experiência profissional na área financeira atuando com análise de dados, automação de processos e geração de insights utilizando Python, Power BI e Excel.
+
+ 
+
+Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot, SQL e AWS, com foco no desenvolvimento de aplicações back-end, APIs REST, microsserviços e soluções em nuvem.
+
+ 
+
+Tenho interesse em oportunidades nas áreas de Desenvolvimento Back-end, Engenharia de Software, Dados e Cloud Computing.
 
 ---
 
