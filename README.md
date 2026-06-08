@@ -1,8 +1,8 @@
 <h1 align="center">Caio Nascimento</h1>
 
 <p align="center">
-  <b>Backend Developer and Data Analytics</b><br>
-  Java •  SQL • AWS • Python 
+  <b> Data Analytics</b><br>
+  Python SQL PowerBI IA
 </p>
 
 <p align="center">
@@ -16,22 +16,23 @@
 
 ---
 
-Formado em Análise e Desenvolvimento de Sistemas, com experiência profissional na área financeira atuando com análise de dados, automação de processos e geração de insights utilizando Python, Power BI e Excel.
+Analista de Dados com experiência profissional em automação de processos, integração de APIs e desenvolvimento de soluções para a área financeira.
 
- 
+Utilizo Python, SQL e Power BI para coleta, tratamento, análise e visualização de dados, apoiando a tomada de decisão baseada em dados.
 
-Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot, SQL e AWS, com foco no desenvolvimento de aplicações back-end, APIs REST, microsserviços e soluções em nuvem.
+Principais resultados:
 
- 
+• Redução do tempo de atualização da base de CNPJs de 1 semana para 3 horas.
 
-Tenho interesse em oportunidades nas áreas de Desenvolvimento Back-end, Engenharia de Software, Dados e Cloud Computing.
+• Automação da consolidação de dados de múltiplas fontes, reduzindo a geração de relatórios de 3 horas para 5 minutos.
+
+Stack: Python, SQL, Power BI, Excel, AWS e APIs REST.
 
 ---
 
 ## 🛠️ Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
